@@ -1,0 +1,35 @@
+_repo: The-Mule-Bone-A-Comedy-of-Negro-Life-in-Three-Acts_19435
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Hughes, Langston
+    birthdate: 1902
+    deathdate: 1967
+    gutenberg_agent_id: '8670'
+    url: http://www.gutenberg.org/2009/agents/8670
+    wikipedia: http://en.wikipedia.org/wiki/Langston_Hughes
+  - agent_name: Hurston, Zora Neale
+    birthdate: 1891
+    deathdate: 1960
+    gutenberg_agent_id: '6368'
+    url: http://www.gutenberg.org/2009/agents/6368
+    wikipedia: http://en.wikipedia.org/wiki/Zora_Neale_Hurston
+description: ''
+gutenberg_issued: '2006-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19435'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Drama'
+- !lcc 'PS'
+title: 'The Mule-Bone:
+
+  A Comedy of Negro Life in Three Acts'
+url: http://www.gutenberg.org/ebooks/19435
